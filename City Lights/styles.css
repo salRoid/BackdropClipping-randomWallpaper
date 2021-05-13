@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: #000;
+    display: flex;
+    font-family: "Poppins", "sans-serif";
+}
+
+h1 {
+    -webkit-text-stroke-width: 0.7px;
+    -webkit-text-stroke-color: white;
+    font-size: 20rem;
+    letter-spacing: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+    position: absolute;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    background-size: cover;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
