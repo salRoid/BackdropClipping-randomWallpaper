@@ -1,0 +1,57 @@
+[
+    {
+        "city" : "MUMBAI",
+        "height": "50",
+        "imgId" : "1.jpg",
+        "fontSize": "19rem"
+    },
+    {
+        "city" : "Patna",
+        "height": "-30",
+        "imgId" : "2.jpeg",
+        "fontSize": "22rem"
+    },
+    {
+        "city" : "कोलकाता",
+        "height": "35",
+        "imgId" : "3.jpeg",
+        "fontSize": "16rem"
+    },
+    {
+        "city" : "BHOPAL",
+        "height": "80",
+        "imgId" : "4.jpeg",
+        "fontSize": "19rem"
+    },
+    {
+        "city" : "लखनऊ",
+        "height": "70",
+        "imgId" : "5.jpg",
+        "fontSize": "19rem"
+    },
+    {
+        "city" : "DELHI",
+        "height": "30",
+        "imgId" : "6.jpg",
+        "fontSize": "22rem"
+    },
+    {
+        "city" : "बेंगलुरु",
+        "height": "10",
+        "imgId" : "9.jpeg",
+        "fontSize": "19rem"
+    },
+    {
+        "city" : "KOTA",
+        "height": "60",
+        "imgId" : "7.jpeg",
+        "fontSize": "22rem"
+    },
+    {
+        "city" : "जामनगर",
+        "height": "50",
+        "imgId" : "8.jpeg",
+        "fontSize": "19rem"
+    }
+    
+]
